@@ -1,5 +1,0 @@
-services:
-  py:
-    image: marcosimage-pytube:latest
-    volumes:
-      - ./app:/usr/src/app
